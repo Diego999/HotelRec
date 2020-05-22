@@ -1,9 +1,26 @@
 # HotelRec - LREC 2020
 
-It's coming in the next days.
-
 HotelRec, a very large-scale hotel recommendation dataset, based on TripAdvisor, containing 50 million reviews. For each review, we collected: the URL of the user’s profile and hotel, the date, the overall rating, the summary (i.e., the title of the review), the written text, and the multiple sub-ratings when
 provided.
+
+# Citation
+
+Please cite our paper if you find the data helpful, thanks!
+
+```
+@InProceedings{antognini-faltings:2020:LREC1,
+  author    = {Antognini, Diego  and  Faltings, Boi},
+  title     = {HotelRec: a Novel Very Large-Scale Hotel Recommendation Dataset},
+  booktitle      = {Proceedings of The 12th Language Resources and Evaluation Conference},
+  month          = {May},
+  year           = {2020},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {4917--4923},
+  abstract  = {Today, recommender systems are an inevitable part of everyone's daily digital routine and are present on most internet platforms. State-of-the-art deep learning-based models require a large number of data to achieve their best performance. Many datasets fulfilling this criterion have been proposed for multiple domains, such as Amazon products, restaurants, or beers. However, works and datasets in the hotel domain are limited: the largest hotel review dataset is below the million samples. Additionally, the hotel domain suffers from a higher data sparsity than traditional recommendation datasets and therefore, traditional collaborative-filtering approaches cannot be applied to such data. In this paper, we propose HotelRec, a very large-scale hotel recommendation dataset, based on TripAdvisor, containing 50 million reviews. To the best of our knowledge, HotelRec is the largest publicly available dataset in the hotel domain (50M versus 0.9M) and additionally, the largest recommendation dataset in a single domain and with textual reviews (50M versus 22M). We release HotelRec for further research: https://github.com/Diego999/HotelRec.},
+  url       = {https://www.aclweb.org/anthology/2020.lrec-1.605}
+}
+```
 
 # Sample
 
