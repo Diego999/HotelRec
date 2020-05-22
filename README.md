@@ -42,6 +42,7 @@ Please cite our paper if you find the data helpful, thanks!
       "service":5.0,
       "cleanliness":3.0,
       "location":3.0
+      }
    }
 ]
 ```
