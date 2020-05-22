@@ -27,7 +27,7 @@ Please cite our paper if you find the data helpful, thanks!
 # Sample
 
 ```
-{
+[
   {
    "hotel_url":"Hotel_Review-g194775-d1121769-Reviews-Hotel_Baltic-Giulianova_Province_of_Teramo_Abruzzo.html",
    "author":"ladispoli",
@@ -43,5 +43,5 @@ Please cite our paper if you find the data helpful, thanks!
       "cleanliness":3.0,
       "location":3.0
    }
-}
+]
 ```
