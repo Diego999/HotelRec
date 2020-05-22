@@ -28,6 +28,7 @@ Please cite our paper if you find the data helpful, thanks!
 
 ```
 {
+  {
    "hotel_url":"Hotel_Review-g194775-d1121769-Reviews-Hotel_Baltic-Giulianova_Province_of_Teramo_Abruzzo.html",
    "author":"ladispoli",
    "date":"2010-02-01T00:00:00",
