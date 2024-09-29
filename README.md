@@ -3,7 +3,7 @@
 HotelRec, a very large-scale hotel recommendation dataset, based on TripAdvisor, containing 50 million reviews. For each review, we collected: the URL of the user’s profile and hotel, the date, the overall rating, the summary (i.e., the title of the review), the written text, and the multiple sub-ratings when
 provided.
 
-You can download the data [here](https://filesender.switch.ch/filesender2/?s=download&token=b3b97529-0503-41de-b9a7-ff1e21a337b3). The use of the data set is restricted to academic research purpose only.
+You can download the data [here](https://filesender.switch.ch/filesender2/?s=download&token=783b5392-be3d-4ea2-b4cb-265fa6faf91f). The use of the data set is restricted to academic research purpose only.
 
 # Citation
 
